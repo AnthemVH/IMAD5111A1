@@ -3,31 +3,34 @@
 ## Detailed Report
 
 ### UI
-The provided code for an android app which was written in Kotlin, takes a users age as an input and returns famous people who died at similar ages. 
+The provided code for an Android app which was written in Kotlin, takes a users age as an input and returns famous people who died at similar ages. 
 
 The UI consists of multiple elements,
-- An Edit Text Field for the age input with an "age" hint
+- An Edit Text Field for the age input with an "age" 
 - Two buttons(Clear and Generate), which are used to clear the output box and to generate the text from the calculations.
 - TextView to display the historical figure that matches the age input.
 - Graphical Images and a custom background to make the UI easier to understand and access.
 
 ### Code Breakdown
-
+hint![onCreate](https://github.com/AnthemVH/IMAD5111A1/assets/113454977/75520022-853c-4b41-9030-1a6a7fb798f5)
 The initialization and UI Setup
 - The **'onCreate'** method sets up the UI elements by finding and setting up buttons, EditText and the TextView
 - **'btnClear'** and **'btnGenerateText'** correspond to the Clear and Generate buttons, respectively
 - **'edtText'** refers to the EditText element for age input and **'txtHistory'** is the TextView for displaying the historical figures
 
+![btnGenerateText](https://github.com/AnthemVH/IMAD5111A1/assets/113454977/3d2d65b8-c2c6-44e8-8fb4-c3c4bd0c455c)
 GenerateText Button Click Listener
 - When the Generate button is clicked the listener is triggered
 - It fetches the age input from the EditText field and checls if its a calid integer
 - If the age is not valid, it notifies the user to enter a number. Otherwise it proceeds to process the age Input
 
+![AgeCheck](https://github.com/AnthemVH/IMAD5111A1/assets/113454977/c42ec3e3-cb7d-4503-83a1-31bdce2f7ea8)
 Age Validation and Historical Figure Selection
 - Validates the age to be withing the specific range(20 to 100, inclusive)
 - Uses a **'when'** expression to determine the age range and assign the corresponding historical figure to **'ageRange'**.
 - Updates the TextView(**'txtHistory'**)to display the age and the matched historical figure.
 
+![btnClear](https://github.com/AnthemVH/IMAD5111A1/assets/113454977/a5c5f863-a73c-47e8-b06e-5f44babec418)
 Clear Button Click Listener
 - Clears the TextView(**'txtHistory'**) when the Clear button is clicked.
 
