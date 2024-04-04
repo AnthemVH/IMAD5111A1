@@ -56,8 +56,10 @@ My provided Kotlin code demonstrates a simple Android app which takes an age inp
 https://youtu.be/vsgA0_CWVLU
 
 ### References
+
 Pixlr(2024)(https://pixlr.com) 
 - For the images in the app
+
 ElevenLabs(2024)(https://elevenlabs.io/)
 - For the voice during the video
 
