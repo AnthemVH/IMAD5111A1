@@ -52,4 +52,13 @@ Clear Button Click Listener
 
 My provided Kotlin code demonstrates a simple Android app which takes an age input and matches it with historical figures who passed away at similar ages. It uses some basic UI elements, basic input validation, and some basic logic to associate ages with the relevant figures. This functionality can be expanded to include more historical figures, and possibly integrate it with some external API`s for a better user experience.
 
+# Video Tutorial
+https://youtu.be/vsgA0_CWVLU
+
+### References
+Pixlr(2024)(https://pixlr.com) 
+- For the images in the app
+ElevenLabs(2024)(https://elevenlabs.io/)
+- For the voice during the video
+
 
