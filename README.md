@@ -12,7 +12,7 @@ The UI consists of multiple elements,
 - Graphical Images and a custom background to make the UI easier to understand and access.
 
 ### Code Breakdown
-hint![onCreate](https://github.com/AnthemVH/IMAD5111A1/assets/113454977/75520022-853c-4b41-9030-1a6a7fb798f5)
+![onCreate](https://github.com/AnthemVH/IMAD5111A1/assets/113454977/75520022-853c-4b41-9030-1a6a7fb798f5)
 The initialization and UI Setup
 - The **'onCreate'** method sets up the UI elements by finding and setting up buttons, EditText and the TextView
 - **'btnClear'** and **'btnGenerateText'** correspond to the Clear and Generate buttons, respectively
