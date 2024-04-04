@@ -21,12 +21,12 @@ The initialization and UI Setup
 ![btnGenerateText](https://github.com/AnthemVH/IMAD5111A1/assets/113454977/3d2d65b8-c2c6-44e8-8fb4-c3c4bd0c455c)
 GenerateText Button Click Listener
 - When the Generate button is clicked the listener is triggered
-- It fetches the age input from the EditText field and checls if its a calid integer
-- If the age is not valid, it notifies the user to enter a number. Otherwise it proceeds to process the age Input
+- It fetches the age input from the EditText field and checks if its a valid integer
+- If the age is not valid, it notifies the user to enter a number. Otherwise, it proceeds to process the age Input
 
 ![AgeCheck](https://github.com/AnthemVH/IMAD5111A1/assets/113454977/c42ec3e3-cb7d-4503-83a1-31bdce2f7ea8)
 Age Validation and Historical Figure Selection
-- Validates the age to be withing the specific range(20 to 100, inclusive)
+- Validates the age to be within the specific range(20 to 100, inclusive)
 - Uses a **'when'** expression to determine the age range and assign the corresponding historical figure to **'ageRange'**.
 - Updates the TextView(**'txtHistory'**)to display the age and the matched historical figure.
 
