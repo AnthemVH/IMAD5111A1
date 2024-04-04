@@ -35,17 +35,17 @@ Clear Button Click Listener
 - Clears the TextView(**'txtHistory'**) when the Clear button is clicked.
 
 ### Historical Figures and Age Ranges
--My app returns specific historical figures with age ranges as follows:
--Ages 20-29: Brian Jones
--Ages 30-39: Aaron Carter
--Ages 40-49: Verne Troyer
--Ages 50-59: Bob Ross
--Ages 60-69: Marie Curie
--Ages 70-75: Ray Charles
--Ages 76-79: Galileo Galilei
--Ages 80-85: Joe Flaherty
--Ages 86-89: Louis Gossett Jr.
--Ages 90-100: Nelson Mandela
+- My app returns specific historical figures with age ranges as follows:
+- Ages 20-29: Brian Jones
+- Ages 30-39: Aaron Carter
+- Ages 40-49: Verne Troyer
+- Ages 50-59: Bob Ross
+- Ages 60-69: Marie Curie
+- Ages 70-75: Ray Charles
+- Ages 76-79: Galileo Galilei
+- Ages 80-85: Joe Flaherty
+- Ages 86-89: Louis Gossett Jr.
+- Ages 90-100: Nelson Mandela
 
 ### Conclusion
 
