@@ -31,6 +31,7 @@ Age Validation and Historical Figure Selection
 - Updates the TextView(**'txtHistory'**)to display the age and the matched historical figure.
 
 ![btnClear](https://github.com/AnthemVH/IMAD5111A1/assets/113454977/a5c5f863-a73c-47e8-b06e-5f44babec418)
+
 Clear Button Click Listener
 - Clears the TextView(**'txtHistory'**) when the Clear button is clicked.
 
