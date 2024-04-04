@@ -67,4 +67,7 @@ Pixlr(2024)(https://pixlr.com)
 ElevenLabs(2024)(https://elevenlabs.io/)
 - For the voice during the video
 
+ChatGPT(2024)(https://chat.openai.com/)
+- For the format of this readme
+
 
